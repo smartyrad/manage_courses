@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Course-Management-System
 Innovation Lab Project
 ## Contributers<br />
